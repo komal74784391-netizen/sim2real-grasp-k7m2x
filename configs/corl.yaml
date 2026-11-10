@@ -1,0 +1,7 @@
+train:
+  epochs: 25
+  lr: 0.0003
+sim:
+  mass: [0.2, 2.0]
+  friction: [0.4, 1.2]
+  light: [0.4, 1.4]
